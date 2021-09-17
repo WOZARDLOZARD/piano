@@ -1,14 +1,4 @@
 /*
-
- * Made by: Jeremy Liu
- * Assignment: Big Piano
- * Class: Mr. Karas | Block 2
- * Last edit: Nov 20, 2019
- 
- * About the program: This is a piano simulator program that responds to user interaction 
- and uses the Minim library to play sound to the user.
- 
- * I verify that this program is my own work. - J.L.
  
  * Click the keys to play the note, and press space to get a random white key color
  
